@@ -3,3 +3,4 @@ Test Automation
 Manual Testing
 Python
 Selenium
+Cypress
